@@ -1,2 +1,3 @@
 Helloguys
-This file contains the string related functions
+This file contains the string related function
+Added somemorestring functions
